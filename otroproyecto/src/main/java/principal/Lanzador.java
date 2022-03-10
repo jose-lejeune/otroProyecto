@@ -7,12 +7,7 @@ public class Lanzador {
 		/**
 		 * Clase prueba de la tutoria
 		 */
-		 public static main () {
-			 /**
-			  * empezamos a escribir la clase main
-			  */
-			 
-		 }
+		 
 
 	}
 
